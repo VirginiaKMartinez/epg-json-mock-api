@@ -4,6 +4,7 @@
   "description": "epg-json-mock-api",
   "main": "index.js",
   "scripts": {
+    "start": "node db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VirginiaKMartinez/epg-json-mock-api/issues"
   },
-  "homepage": "https://github.com/VirginiaKMartinez/epg-json-mock-api#readme"
+  "homepage": "https://github.com/VirginiaKMartinez/epg-json-mock-api#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
 }
