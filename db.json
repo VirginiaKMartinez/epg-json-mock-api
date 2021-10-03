@@ -1,6 +1,7 @@
 {
    "epg": [
       {
+        "id": 0,
         "channel": "AXN",
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251602/AXN_HD_Logo_2015_pmp54e.png",
         "shows": [{
@@ -30,6 +31,7 @@
       ]
       },
       {
+        "id": 1,
         "channel": "Disney",
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633252325/disney-plus-logo-0_t4a5ow.png",
         "shows": [{
@@ -59,8 +61,9 @@
       ]
       },
       {
+        "id": 2,
         "channel": "abc",
-        "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251596/imgbin-abc-news-united-states-american-broadcasting-company-disney-abc-television-group-united-states-QjY9bb1SCRGn1uzEiuFGbAugp_t_udeyx1.jpg",
+        "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633271450/abc-logo_ra4vkz.png",
         "shows": [{
           "id": 0,
           "title": "Spiders",
@@ -88,6 +91,7 @@
       ]
       },
       {
+        "id": 3,
         "channel": "National Geographic",
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251593/national_geographic_qy9kww.png",
         "shows": [{
