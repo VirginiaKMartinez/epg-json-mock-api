@@ -34,7 +34,7 @@
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633252325/disney-plus-logo-0_t4a5ow.png",
         "shows": [{
           "id": 0,
-          "title": "The Simpsons",
+          "title": "Mickey",
           "start": "10:00",
           "ends": "10:30"
         },
@@ -46,13 +46,13 @@
         },
         {
           "id": 2,
-          "title": "The Avengers",
+          "title": "Donald",
           "start": "11:30",
           "ends": "12:00"
         },
         {
           "id": 3,
-          "title": "Pokemon",
+          "title": "Goofie",
           "start": "12:00",
           "ends": "12:30"
         }
@@ -63,25 +63,25 @@
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251596/imgbin-abc-news-united-states-american-broadcasting-company-disney-abc-television-group-united-states-QjY9bb1SCRGn1uzEiuFGbAugp_t_udeyx1.jpg",
         "shows": [{
           "id": 0,
-          "title": "The Simpsons",
+          "title": "Spiders",
           "start": "10:00",
           "ends": "10:30"
         },
         {
           "id": 1,
-          "title": "Batman",
+          "title": "Afganistan",
           "start": "10:30",
           "ends": "11:30"
         },
         {
           "id": 2,
-          "title": "The Avengers",
+          "title": "Weather",
           "start": "11:30",
           "ends": "12:00"
         },
         {
           "id": 3,
-          "title": "Pokemon",
+          "title": "News",
           "start": "12:00",
           "ends": "12:30"
         }
@@ -92,25 +92,25 @@
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251593/national_geographic_qy9kww.png",
         "shows": [{
           "id": 0,
-          "title": "The Simpsons",
+          "title": "Lions",
           "start": "10:00",
           "ends": "10:30"
         },
         {
           "id": 1,
-          "title": "Batman",
+          "title": "Treasures",
           "start": "10:30",
           "ends": "11:30"
         },
         {
           "id": 2,
-          "title": "The Avengers",
+          "title": "The forest",
           "start": "11:30",
           "ends": "12:00"
         },
         {
           "id": 3,
-          "title": "Pokemon",
+          "title": "Dogs",
           "start": "12:00",
           "ends": "12:30"
         }
