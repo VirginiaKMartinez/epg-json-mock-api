@@ -3,7 +3,7 @@
       {
         "channel": "AXN",
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251602/AXN_HD_Logo_2015_pmp54e.png",
-        "shows": {
+        "shows": [{
           "id": 0,
           "title": "The Simpsons",
           "start": "10:00",
@@ -27,11 +27,12 @@
           "start": "12:00",
           "ends": "12:30"
         }
+      ]
       },
       {
         "channel": "Disney",
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633252325/disney-plus-logo-0_t4a5ow.png",
-        "shows": {
+        "shows": [{
           "id": 0,
           "title": "The Simpsons",
           "start": "10:00",
@@ -55,11 +56,12 @@
           "start": "12:00",
           "ends": "12:30"
         }
+      ]
       },
       {
         "channel": "abc",
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251596/imgbin-abc-news-united-states-american-broadcasting-company-disney-abc-television-group-united-states-QjY9bb1SCRGn1uzEiuFGbAugp_t_udeyx1.jpg",
-        "shows": {
+        "shows": [{
           "id": 0,
           "title": "The Simpsons",
           "start": "10:00",
@@ -83,11 +85,12 @@
           "start": "12:00",
           "ends": "12:30"
         }
+      ]
       },
       {
         "channel": "National Geographic",
         "logo": "https://res.cloudinary.com/dfueka4dg/image/upload/v1633251593/national_geographic_qy9kww.png",
-        "shows": {
+        "shows": [{
           "id": 0,
           "title": "The Simpsons",
           "start": "10:00",
@@ -111,6 +114,7 @@
           "start": "12:00",
           "ends": "12:30"
         }
-      },
+      ]
+      }
    ]
   }
